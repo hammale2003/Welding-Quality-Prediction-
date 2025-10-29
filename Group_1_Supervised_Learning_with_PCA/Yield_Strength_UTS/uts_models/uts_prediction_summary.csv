@@ -1,2 +1,0 @@
-Property,Model,Samples,PCA_Components,Train_R2,Test_R2,Test_MAE,Test_RMSE,Overfitting_Gap,Best_Params,YS_UTS_Correlation
-UTS,SVR,738,17,0.9805657278065473,0.8659937530323353,0.2572986279722569,0.40034554891841523,0.114571974774212,"{'C': 50, 'epsilon': 0.1, 'gamma': 0.1, 'kernel': 'rbf'}",0.915453466698379
