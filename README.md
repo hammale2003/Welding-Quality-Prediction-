@@ -400,14 +400,3 @@ Welding-Quality-Prediction-Project/
 3. Compute WQI using weighted formula
 4. Validate against known quality benchmarks
 
----
-
-## Future Enhancements
-
-- **Multi-task learning**: Jointly predict correlated properties
-- **Deep learning**: Autoencoders for semi-supervised regression
-- **Active learning**: Strategic sample selection for labeling
-- **Transfer learning**: Adapt models across welding processes
-- **Uncertainty quantification**: Conformal prediction intervals
-- **WQI optimization**: Empirical validation and weight tuning
-
