@@ -411,18 +411,3 @@ Welding-Quality-Prediction-Project/
 - **Uncertainty quantification**: Conformal prediction intervals
 - **WQI optimization**: Empirical validation and weight tuning
 
----
-
-## Contributors
-
-This project represents a comprehensive machine learning approach to welding quality prediction, combining classical supervised learning with advanced semi-supervised techniques to handle real-world data constraints.
-
-## License
-
-[Specify License]
-
----
-
-**For detailed mathematical formulations and algorithms, refer to:**
-- `methodology.tex` - Complete methodology (both groups)
-- `methodology_group2.tex` - Group 2 semi-supervised learning details
