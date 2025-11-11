@@ -1,0 +1,5 @@
+Model,R²,Adj. R²,RMSE,MAE,Best
+Random Forest (Supervised),1.0,1.0,0.0,0.0,✓
+XGBoost (Supervised),0.0,-1.3333333333333335,0.15687747299671173,0.15687747299671173,
+Random Forest (Semi-Supervised),1.0,1.0,0.0,0.0,
+XGBoost (Semi-Supervised),0.0,-1.3333333333333335,1.8220250877838202,1.819581601354811,
